@@ -6,12 +6,7 @@
 </div>
 
 <h2 align="center">Special Sponsors</h3>
-<div align="center">  
-<a href="https://e.coding.net/?utm_source=JavaGuide" target="_blank">
-  <img src="https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-3/Coding Devops.png" width=""/>
- </a>
-</br>
-</div>
+
 
 ## 阅读之前必看
 
